@@ -1,3 +1,6 @@
+<!-- The kind of gross file I used to run Sentiment Analysis on the TJHSST server.
+     Don't have the book stock photo on GitHub, and it's probably not worth digging up. -->
+
 <html>
   <head>
   <link rel="stylesheet" href="stylesheet.css">
